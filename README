@@ -1,1 +1,5 @@
 EXAMPLES OF DESIGN PATTERNS - JS
+
+1. Module Pattern
+It allow us to emulate something similar to private and public encapsulation in an object.
+See module-pattern.js for an example.
